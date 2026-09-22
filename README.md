@@ -4,7 +4,7 @@
 	This project analyzes Netflix's content( movies and TV shows) real data sourced from Kaggle, this project imports raw data into sql server, cleaning and transforming it and building a multipage interactive dashboards.
 
 ##Data source
-	This project uses data sourced from Kaggle (Netflix Movies and TV shows) which contains 8807 titles with Country, Rating, Cast, Type, date added, release year,  duration, genre, and description.
+	This project uses data sourced from Kaggle (Netflix Movies and TV shows) which contains 8807 titles with Country, Rating, Cast, Type, date added, release year, duration, genre, and description.
 
 ## Tools used
 	SSMS - Importing, cleaning and transformations.
@@ -19,11 +19,11 @@
 	- Verified data integrity post-transformation by comparing unique title counts between the source SQL table and the transformed Power BI model, identifying and correcting an aggregation bug (Count vs. Count Distinct) caused by the row-splitting process.
 
 ##Dash board structure
-	-[Overview]- contains the Core statistics (total titles, movies, TV shows and country-wise breakdown).
-	-[Genre Breakdown] — top genres by title count, split by content type.
-	-[Trends Over Time] — content added to the platform by year, and original release year distribution.
-	-[Deep Dive] — a searchable, filterable table of individual titles with country and rating slicers.
-	-[Runtime Analysis] — total content runtime (minutes) by genre and by country.
+	-Overview- contains the Core statistics (total titles, movies, TV shows and country-wise breakdown).
+	-Genre Breakdown — top genres by title count, split by content type.
+	-Trends Over Time— content added to the platform by year, and original release year distribution.
+	-Deep Dive — a searchable, filterable table of individual titles with country and rating slicers.
+	-Runtime Analysis — total content runtime (minutes) by genre and by country.
 
 ## Key Business Insights
 	-Netflix content has a exponential growth between 2016-2019 and there's a slight dip after 2019.
