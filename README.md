@@ -11,7 +11,7 @@
 	Power BI- Creating data model, Power query transformations, Multiple dashboards and DAX measures.
 
 ## Data Cleaning & Preparation
-	-Converted 'data_added' into proper data format as 'data_added_clean'.
+	-Converted 'date_added' into proper data format as 'date_added_clean'.
 	-Split the mixed 'duration' field 'duration minutes' for Movies and 'duration seasons' for TV shows.
 	- Replaced missing values in `director`, `cast`, and `country` with "Unknown" to preserve row completeness.
 	-Identified 3 rows with column shift data error and corrected it (duration values misplaced in the `rating` field), relabeling them as "Not Rated".
@@ -26,9 +26,9 @@
 	-Runtime Analysis — total content runtime (minutes) by genre and by country.
 
 ## Key Business Insights
-	-Netflix content has a exponential growth between 2016-2019 and there's a slight dip after 2019.
+	-Netflix content has an exponential growth between 2016-2019 and there's a slight dip after 2019.
 	-International movies, Dramas and Comedies are the top genre by title count.
-	-Unites States and India together has the largest share of runtime, though United states leads in the title count in a wide margin.
+	-United States and India together has the largest share of runtime, though United states leads in the title count in a wide margin.
 	-TV-MA and TV-14 lead the ratings list, reflecting strong consumption among mature and teenage audiences.
 	-Most content on the platform was originally released between 2015 and 2020, indicating a preference for relatively recent titles.
 
