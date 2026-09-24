@@ -27,11 +27,15 @@
 
 ## Dashboard Preview
 
-	-[Overview page](Overview.png)
-	-[Genre breakdown page](genre.png)
-	-[Trends over time page](Trends_over_time.png)
-	-[Deep dive page](Deep_dive.png)
-	-[Runtime analysis page](runtime.png)
+![Overview page](Overview.png)
+
+![Genre breakdown page](genre.png)
+
+![Trends over time page](Trends_over_time.png)
+
+![Deep dive page](Deep_dive.png)
+
+![Runtime analysis page](runtime.png)
 
 ## Key Business Insights
 	-Netflix content has an exponential growth between 2016-2019 and there's a slight dip after 2019.
