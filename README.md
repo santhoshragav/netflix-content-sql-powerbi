@@ -25,6 +25,14 @@
 	-Deep Dive — a searchable, filterable table of individual titles with country and rating slicers.
 	-Runtime Analysis — total content runtime (minutes) by genre and by country.
 
+## Dashboard Preview
+
+	-[Overview page](Overview.png)
+	-[Genre breakdown page](genre.png)
+	-[Trends over time page](Trends_over_time.png)
+	-[Deep dive page](Deep_dive.png)
+	-[Runtime analysis page](runtime.png)
+
 ## Key Business Insights
 	-Netflix content has an exponential growth between 2016-2019 and there's a slight dip after 2019.
 	-International movies, Dramas and Comedies are the top genre by title count.
